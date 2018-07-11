@@ -9,7 +9,7 @@ npm start
 
 The application will be accessible on http://localhost:8080
 
-#Technologies used
+# Technologies used
 Front-end:
 - ReactJS
 - HTML5
